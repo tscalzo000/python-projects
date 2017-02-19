@@ -1,0 +1,20 @@
+<head>
+  <link rel='stylesheet' type='text/css' href='/static/styles/styles.css'>
+</head>
+
+<h1>Add Movie</h1>
+
+<form action='/movie' method='POST'>
+  Name:
+  <input type='text' name='name' /><br />
+  Rating:
+  <input type='text' name='rating' /><br />
+  <input type='submit'/>
+</form>
+
+<form action='/search' method='GET'>
+  Name:
+  <input type='text' name='name' />
+  <input type='submit' value='Search' />
+</form>
+<a href='/movies'>Movie List</a>
