@@ -1,0 +1,11 @@
+body {
+  background: whitesmoke;
+}
+
+.header {
+  color: blue;
+}
+
+#friends-list {
+  text-decoration: none;
+}
