@@ -1,0 +1,44 @@
+.main {
+  margin-left: 1%;
+  margin-right: 0.5%;
+}
+
+.red {
+  background-color: red;
+  margin-top: 1%;
+  width: 100%;
+  height: 20%;
+  display: inline-flex;
+  align-items: center;
+}
+
+.black {
+  background-color: black;
+  margin-left: 5%;
+  margin-right: 5%;
+  height: 33%;
+  width: 100%;
+}
+
+.blue {
+  background-color: blue;
+  height: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.yellow {
+  background-color: yellow;
+  width: 33%;
+  height: 13vw;
+  margin: 5%;
+  margin-top: 10%;
+}
+
+.green {
+  background-color: green;
+  height: 20%;
+}
