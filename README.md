@@ -1,6 +1,7 @@
 #Python Projects
 
 I'm learning Python through a few different avenues:
+---
 1. LambdaSchool's free mini online bootcamp
 
 2. Zed Shaw's book 'Learning Python the Hard Way'
